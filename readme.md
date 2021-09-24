@@ -1,4 +1,4 @@
-# Launch the MongoDB Server container. A docker network ass1 will be created.
+# Launch the MongoDB Server container.
 ```
 docker-compose up
 ```
